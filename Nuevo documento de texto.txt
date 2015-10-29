@@ -1,0 +1,27 @@
+Switch(config)#interface FastEthernet0/1
+Switch(config-if)#swi
+Switch(config-if)#switchport mode acc
+Switch(config-if)#switchport mode access 
+Switch(config-if)#switchport por-seg
+Switch(config-if)#switchport por-segu
+Switch(config-if)#switchport port-segur
+Switch(config-if)#switchport port-secu
+Switch(config-if)#switchport port-security mac-ad
+Switch(config-if)#switchport port-security mac-address 00E0.8F84.6EAB
+Port-security not enabled on interface FastEthernet0/1.
+Switch(config-if)#switchport port-security mac-address 00E0.8F84.6EAB
+Port-security not enabled on interface FastEthernet0/1.
+Switch(config-if)#switchport port-security ma
+Switch(config-if)#switchport port-security max
+Switch(config-if)#switchport port-security maximum 1
+Switch(config-if)#switchport port-security viol
+Switch(config-if)#switchport port-security violation pro
+Switch(config-if)#switchport port-security violation protect 
+Switch(config-if)#
+
+https://desktop.github.com/
+Para mas cursos visita: http://comparte-la.blogspot.com
+
+https://mega.nz/#!eN0WjJQb!epWnaCwU-rx_oVnqM8WBSRMpgv5P6m96UhIpol1_ThU 
+https://mega.nz/#!6FNCURhT!zwEM1L_ir-I4uBgnPCcweQnHAIYtJ-YX1Grb5riDgJc https://mega.nz/#!udMHxb5D!hyJbfTzqJo03C1lrpU9wYL1ml8h1q5EUOr0SqmR4izM https://mega.nz/#!zJUS2BoC!zgKXhqFH9ZzngTj8mIqvRv5fkSzAmmmGzVpZy9kmT0c https://mega.nz/#!jclTERQY!_rbenSg3eixAuFaG9kPKezneJ_3zw6RANGXQ2qAqRkY 
+https://mega.nz/#!SclmSDAb!QYyK2R-H4f5dz6l4zmoHjOSxtzPHIf5IkP4fx7ufhDE https://mega.nz/#!HE1iwQBS!yXRyHhf9Aq75vhmjzCICStjXopvUB520iyuRVe99LKo https://mega.nz/#!mMNTnQQb!7uyjoouOJ8IfOVv2SrxJCAS_fBi_5iJvxynnLNv_lHs https://mega.nz/#!qZtGXCTJ!dVXVc3W38SACIyzNRLBvgiC0lx4OFqVo-4TtJNo0hQM https://mega.nz/#!TdcjlQTK!vkZnYNJbdIEOLo1IVSwG5e33Av9WOJ6K6mnEOgnQ8P0
